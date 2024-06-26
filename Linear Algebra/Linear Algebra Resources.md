@@ -1,0 +1,4 @@
+- [3blue1brown](https://www.3blue1brown.com/topics/linear-algebra) - Explains the intuition with great visuals
+- [MIT OCW by Prof. Gilbret Strang](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+	- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - I assume the above link has the videos as well but idk
+- Ron Larson's Linear Algebra book

@@ -1,0 +1,2 @@
+6/26/2024
+I'd really like to understand how neural nets work, even just a simple layman's understanding. Apparently linear algebra is a big part of that, so I'm looking into learning linear algebra. I should be able to say "refreshing" my linear algebra since I took a class on it for college, but let's be honest: I BS'd my way through that class. 
